@@ -1,7 +1,8 @@
 Traveling Salesman Problem solver for Java with three algorithms: Nearest Neighbo(u)r, Double Minimum Spanning Tree and Convex Hull Heuristic.
 The Java codes in this repository have not been edited since 2017.
 
-A newer version is available: https://github.com/tuomasth/TSPsolver_v17-6-2026 (21.6.2026)
+A newer version is available. 
+https://github.com/tuomasth/TSPsolver_v17-6-2026 (21.6.2026)
 
 Java (JRE or JDK) must be installed, obviously, before executing the JAR file in the "dist" folder. 
 https://www.java.com/en/download/manual.jsp (21.6.2026)
