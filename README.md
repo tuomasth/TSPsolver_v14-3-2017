@@ -13,7 +13,7 @@ It stated that NNH -> 2MST -> CHH in speed, on average, NNH being the fastest.
 
 The convex hull has a minor bug, sometimes leaving a node unremoved, but this does not significally affect the TSP solution.
 
-Also, the 2MST heuristic can find the best tour for example in special "cluster" cases such as:
+Also, the 2MST heuristic can find the best tour (of the 3) for example in special "cluster" cases such as:
 
 
 1 3.1 3.0
